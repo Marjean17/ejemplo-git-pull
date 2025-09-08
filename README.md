@@ -1,2 +1,2 @@
-# ejemplo-git-pull
-practicamos el comando git pull
+# ejemplo-git-pull repositorio!
+practicamos el comando git pull zzz
